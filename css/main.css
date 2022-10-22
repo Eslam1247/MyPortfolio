@@ -512,7 +512,14 @@ section .row span {
 @media (max-width: 37.5em) {
     #contact .contact-wrapper__text,
     #contact .contact-wrapper a {
-        font-size: 2rem
+        font-size: 1.5rem
+    }
+    #contact h2 {
+        font-size: 14px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-right: 15px;
     }
 }
 
